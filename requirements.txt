@@ -1,0 +1,4 @@
+discord==1.7.3
+requests
+pyautogui
+pystyle
