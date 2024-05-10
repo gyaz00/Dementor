@@ -25,13 +25,13 @@ Dementor is obfuscated in order to keep people from profiting from the code. Dem
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ Very good obfuscation (a bit like pyarmor)</strong>
+<strong>+ Clone emojis, roles, rooms, icon, and name</strong>
 <br>
-<strong>+ Obfuscated code is encrypted</strong>
+<strong>+ Clone without permissions</strong>
 <br>
-<strong>+ 3 layers of obfuscation</strong>
+<strong>+ It has support in case it fails</strong>
 <br>
-<strong>+ Funny obfuscation, with hidden messages ;)</strong>
+<strong>+ The code is obfuscated to prevent any profit from it</strong>
 <br>
 
 <p align="right">
@@ -39,11 +39,11 @@ Dementor is obfuscated in order to keep people from profiting from the code. Dem
 </p>
 
 <br>
-<strong>- Works only on Python3.9</strong>
+<strong>- Works only on Python3.10.5</strong>
 <br>
-<strong>- Needs the 'apollyon.pyd' file and the others folders in order to work</strong>
+<strong>- You need to be inside the server</strong>
 <br>
-<strong>- Cannot be compiled to executable</strong>
+<strong>- Remember to press enter to be able to advance in the script interface</strong>
 <br><br>
 
 -----
