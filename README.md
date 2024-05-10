@@ -61,24 +61,6 @@ Dementor is obfuscated in order to keep people from profiting from the code. Dem
 
 -----
 
-### <p align="center">💡 Ideas 💡</p>
-
-<p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
-
-<br><br>
-* Allow the user to choose the encryption key (CPython would be necessary)
-* Add a layer
-* Make the obfuscator compatible with Python3.8 and Python3.9
-<br><br>
-
------
-  
-### <p align="center">🎨 Contributors 🎨</p>
-
-<br><br>
-* [Bleu](https://github.com/Bleu-No) | Gave me the PYD idea and helped me with CPython
-<br><br>
-  
 -----
 
 ### <p align="center">📌 Disclaimer 📌</p>
@@ -90,4 +72,4 @@ Dementor is obfuscated in order to keep people from profiting from the code. Dem
 
 -----
 
-### <p align="center">billythegoat356</p>
+### <p align="center">gyazo ¿</p>
