@@ -13,9 +13,9 @@
 <strong>
 Dementor is a discord server cloner. Effective, fast and without the risk of banning.!
 <br><br>
-Apollyon is one of the best Python3.9 obfuscators, it will protect your
+Dementor is made in Python with a line of colors that make it stand out even more
 <br>
-code and make it extremely difficult to get deobfuscated by using CPython.
+Dementor is obfuscated in order to keep people from profiting from the code. Dementor clones any type of server layout to your server that you want to copy just by using IDs from them.
 </strong>
 </p>
 <br>
@@ -35,7 +35,7 @@ code and make it extremely difficult to get deobfuscated by using CPython.
 <br>
 
 <p align="right">
-<img src="https://repository-images.githubusercontent.com/380137557/d9ad89b2-95d7-42bb-a877-6fe8f293de8b" width="250", height="250">
+<img src="https://media.giphy.com/media/pgCyMCr3UmkvUUxkjP/source.gif" width="250", height="250">
 </p>
 
 <br>
