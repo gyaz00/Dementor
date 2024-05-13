@@ -39,7 +39,7 @@ Dementor is obfuscated in order to keep people from profiting from the code. Dem
 </p>
 
 <br>
-<strong>- Works only on Python3.10.5</strong>
+<strong>- Works only on Python 3.10.5</strong>
 <br>
 <strong>- You need to be inside the server</strong>
 <br>
