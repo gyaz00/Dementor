@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-<img src="https://media.giphy.com/media/lwi3QnwjuDEyVNuC7E/giphy.gif", width="500", height="500">
+<img src="https://github.com/gyaz00/Dementor/assets/156465561/8208da22-f3c6-43e8-857d-844aa77f94b4", width="500", height="500">
 </p>
 
 -----
