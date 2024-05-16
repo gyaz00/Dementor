@@ -1,8 +1,7 @@
 -----
 
-<p align="center">
-<img src="https://github.com/gyaz00/Dementor/assets/156465561/05552f56-f860-48c9-b8ee-997dd6362104"/>
-</h1>
+![a_69070c88040b3b6262b8c72e836634bc](https://github.com/gyaz00/Dementor/assets/156465561/5b364506-d0ec-4a01-9da3-a6a234e610c2)
+
 
 -----
 
