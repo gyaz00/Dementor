@@ -1,7 +1,8 @@
 -----
 
 <p align="center">
-<img src="https://github.com/gyaz00/Dementor/assets/156465561/8208da22-f3c6-43e8-857d-844aa77f94b4", width="500", height="500">
+<img src=![Mickey_Mouse_GIF_-_Mickey_Mouse_Smoke_-_Discover__Share_GIFs](https://github.com/gyaz00/Dementor/assets/156465561/5da98d40-b8a4-4efb-ae14-2ec83b4470a9)
+"", width="500", height="500">
 </p>
 
 -----
