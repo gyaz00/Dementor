@@ -35,7 +35,7 @@ Dementor is obfuscated in order to keep people from profiting from the code. Dem
 <br>
 
 <p align="right">
-<img src="https://media.giphy.com/media/pgCyMCr3UmkvUUxkjP/source.gif" width="250", height="550">
+<img src="https://media.giphy.com/media/pgCyMCr3UmkvUUxkjP/source.gif" width="550", height="550">
 </p>
 
 <br>
